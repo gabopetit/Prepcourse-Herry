@@ -1,2 +1,1 @@
-# Prepcourse-Herry
-Repositorio de  prueba  del modulo2 del Prepcouse de Herry
+Este proyecto es una prueba de como crear un repositorio github 
